@@ -28,7 +28,7 @@ repositories {
 dependencies {
     // ... other dependencies
     compile group: 'org.spigotmc', name: 'spigot', version: spigot_version
-    compile group: 'com.vk2gpz.mergedspwner', name: 'MergedSpawenrnAPI', version: '12.4.1'
+    compile group: 'com.vk2gpz.mergedspwner', name: 'MergedSpawenrnAPI', version: '12.4.8'
     // ... other dependencies
 }
 ```
