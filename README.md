@@ -33,7 +33,7 @@ dependencies {
 }
 ```
 
-## [API Documentation](javadoc/index.html)
+## [API Documentation](https://teamvk.github.io/MergedSpawnerAPI/javadoc/index.html)
 
 ## [Donation](http://PayPal.Me/vk2gpz)
 It would be greatly appreciated for your donation to continue providing support for this plugin.
