@@ -33,6 +33,30 @@ dependencies {
 }
 ```
 
+### Maven
+Here is an example of a fragment of the script you can add to your pom.xml.
+
+```
+    <repositories>
+        <!-- TeamVK -->
+        <repository>
+            <id>teamvk-repo</id>
+            <url>https://raw.githubusercontent.com/TeamVK/maven-repository/master/release/</url>
+        </repository>
+
+    </repositories>
+
+    <dependencies>
+        <!-- MergedSpawner -->
+        <dependency>
+            <groupId>com.vk2gpz.mergedspawner</groupId>
+            <artifactId>MergedSpawnerAPI</artifactId>
+            <version>12.4.8</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+```
+
 ## [API Documentation](https://teamvk.github.io/MergedSpawnerAPI/javadoc/index.html)
 
 ## [Donation](http://PayPal.Me/vk2gpz)
